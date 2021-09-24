@@ -1,0 +1,24 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "author": "Iago Chiapetta",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "yarn": "^1.22.11"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1",
+    "supertest": "^6.1.6"
+  }
+}
