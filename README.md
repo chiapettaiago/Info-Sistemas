@@ -7,5 +7,6 @@ Aplicativo Node JS feito seguindo os parâmetros abaixo: <br>
 .Criar recursos rest para acesso aos dados dos veículos<br>
 <h3>Testes unitários também realizados na plataforma Insomnia</h3>
 <img src="Captura de tela 2021-09-24 130606.png">
+<h3>Atualização em breve: Adicionarei a este repositório assim que ficarem prontos os projetos opcionais em Angular JS que utilizarão os recursos rest dessa aplicação backend.</h3>
 
 
