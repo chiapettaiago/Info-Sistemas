@@ -6,6 +6,6 @@ Aplicativo Node JS feito seguindo os parâmetros abaixo: <br>
 .Criar teste unitários utilizando Mocha (Node) para cada uma das operações (create, read, update, delete) <br>
 .Criar recursos rest para acesso aos dados dos veículos<br>
 <h4>Testes unitários também realizados na plataforma Insomnia</h4>
-![](Captura de tela 2021-09-24 130606.png)
+<img src="Captura de tela 2021-09-24 130606.png">
 
 
